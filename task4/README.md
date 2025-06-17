@@ -1,4 +1,5 @@
-![Cover Image](./cover image.png)
+![Cover](./cover.png)
+
 
 # Task 4: Traffic Accident Data Analysis 🚗
 This task analyzes traffic accident data to identify patterns based on road conditions, weather, and time of day.  
